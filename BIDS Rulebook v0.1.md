@@ -11,7 +11,9 @@
 
 ## 1. Description of Business Scenario(s) where data is to be shared
 
-When a new business entity starts conducting its business activities, one of the first key capabilities to be implemented is the ability to make and receive payments through the international banking system. For this purpose, the business entity needs to approach a financial institution, like a bank, and apply for the opening of a bank account. Traditionally this has been done locally, probably in one of the existing bank 
+When a new business entity starts conducting its business activities, one of the first key capabilities to be implemented is the ability to make and receive payments through the international banking system. For this purpose, the business entity needs to approach a financial institution, like a bank, and apply for the opening of a bank account. Traditionally this has been done locally, probably in one of the branches of a national bank. 
+
+asdasd
 
 ## 2. Data Providers
 In comparison with traditional data sharing initiatives, the Data Providers in the BIDS are always the data subjects, sharing all data according to MyData principles. The data to be shared can either be produced or stored by a third pary, like a government agency
