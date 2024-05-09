@@ -13,7 +13,9 @@
 
 When a new business entity starts conducting its business activities, one of the first key capabilities to be implemented is the ability to make and receive payments through the international banking system. For this purpose, the business entity needs to approach a financial institution, like a bank, and apply for the opening of a bank account. Traditionally this has been done locally, probably in one of the branches of a national bank. 
 
-asdasd
+Through the introduction of digital means to perform business process functions, many business processes that used to be bound to physical locations and whose execution was carried out by manual activities can nowadays be executed online and be partially or completely automated. One lacking capability in the digital and automated execution of the Know Your Customer process has been the absence of means to prove the identity of a business entity or its representative as well as presenting a trustworthy digital version of the documents that contain the information required in the business process.
+
+With the introduction of the BIDS and the digital capabilities it prescribes, these shortcomings can now be remedied, especially in the siuations where the KYC process is to be executed between a business entity and a financial institution that do not reside in the same jurisdiction.
 
 ## 2. Data Providers
 In comparison with traditional data sharing initiatives, the Data Providers in the BIDS are always the data subjects, sharing all data according to MyData principles. The data to be shared can either be produced or stored by a third pary, like a government agency
