@@ -54,4 +54,4 @@ The data that is shared by the Data Providers and consumed by Data Consumers in 
 
 
 ### 5.2. Schema repository with approved credential schemas
-See see documentation [here](/blob/main/credential-schemas.md)
+See see documentation [here](/credential-schemas.md)
