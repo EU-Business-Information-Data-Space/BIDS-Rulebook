@@ -1,4 +1,4 @@
-# Business Information Rulebook
+# Business Information Data Space Rulebook
 ### Version 0.1
 
 #### Contents
