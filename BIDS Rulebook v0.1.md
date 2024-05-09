@@ -30,5 +30,14 @@ In the BIDS context, all data to be shared MUST be described as application prof
 
 NOTE: The proposed common toolset for BIDS specific semantic modeling according to the described methodology is the Interoperability Platform, consisting of the Terminologies tool (https://sanastot.suomi.fi/), Data Vocabularies tool (https://tietomallit.suomi.fi/ and Reference Data tool (https://koodistot.suomi.fi/). However, since the platform is currently maintained only for use by the Finnish public anc private sector organizations, a new governance model for the tools needs development in the BIDS context.
 
+### 4.1 Organization and governance of the required common data modeling
+A Semantic Working Group is to be established for the creation of the common ontology, vocabularies, code lists and application profiles that the Governance Body decides to be necessary for the data sharing in different business process contexts.
+
+The participants of the Semantic Working Group SHALL at least represent each national business registration authority, but additional members are to be included depending on the scope of business processes that are covered by the BIDS. In the KYC case, the SWG should appoint members also from national tax authorities as well as from organizations representing actors in the banking sector and financial institutions.  
+
 ## 5. Allowed technical data sharing mechanisms
-T
+The data that is shared by the Data Providers and consumed by Data Consumers in the BIDS context SHALL be available as W3C Verifiable Credentials, specifically in the format and through the protocols etc. that are to be defined in the context of the eIDAS 2.0 regulation.
+
+### 5.1. Organization and governance of the technical data sharing
+
+
