@@ -8,6 +8,7 @@
 3. Data Consumers
 4. Methodology for defining the data to be shared
 5. Allowed technical data sharing mechanisms
+6. Model for the overall organization and governance of the BIDS
 
 ## 1. Description of Business Scenario(s) where data is to be shared
 
@@ -49,6 +50,9 @@ The participants of the Semantic Working Group SHALL at least represent each nat
 
 ## 5. Allowed technical data sharing mechanisms
 The data that is shared by the Data Providers and consumed by Data Consumers in the BIDS context SHALL be available as W3C Verifiable Credentials, specifically in the format and through the protocols etc. that are to be defined in the context of the eIDAS 2.0 regulation.
+
+## 6. Model for the overall organization and governance of the BIDS
+According to the DSSC Blueprint v1.0 (https://dssc.eu/space/BVE/357074549/Organisational+Form+and+Governance+Authority) the most suitable model of governance for the BIDS could be an EDIC.
 
 ### 5.1. Organization and governance of the technical data sharing
 
