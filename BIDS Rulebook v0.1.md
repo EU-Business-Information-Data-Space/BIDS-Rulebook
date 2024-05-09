@@ -53,3 +53,5 @@ The data that is shared by the Data Providers and consumed by Data Consumers in 
 ### 5.1. Organization and governance of the technical data sharing
 
 
+### 5.2. Schema repository with approved credential schemas
+See see documentation [here](EU-Business-Information-Data-Space/credential-schemas.md)
