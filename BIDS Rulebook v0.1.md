@@ -52,6 +52,7 @@ The participants of the Semantic Working Group SHALL at least represent each nat
 The data that is shared by the Data Providers and consumed by Data Consumers in the BIDS context SHALL be available as W3C Verifiable Credentials, specifically in the format and through the protocols etc. that are to be defined in the context of the eIDAS 2.0 regulation.
 
 The probably most suitable technical format for the verifiable credentials (or (Q)EAAs in an EU context) is going to be the SD-JWT VCDM, which allows for the credential subject to be described in JSON-LD (is this correct?)
+
 https://github.com/danielfett/sd-jwt-vc-dm
  
 ### 5.1. Organization and governance of the technical data sharing
