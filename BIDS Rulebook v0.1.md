@@ -18,8 +18,16 @@ Through the introduction of digital means to perform business process functions,
 With the introduction of the BIDS and the digital capabilities it prescribes, these shortcomings can now be remedied, especially in the siuations where the KYC process is to be executed between a business entity and a financial institution that do not reside in the same jurisdiction.
 
 ## 2. Data Providers
-In comparison with traditional data sharing initiatives, the Data Providers in the BIDS are always the data subjects, sharing all data according to MyData principles. The data to be shared can either be produced or stored by a third pary, like a government agency
+In comparison with traditional data sharing initiatives, the Data Providers in the BIDS are always the data subjects themselves, sharing all data according to MyData principles. The data to be shared can either be produced or stored by a third pary, like a government agency that stores information about a business entity in specific registries, or produced by the business entity itself in the form of specific business documents like orders, invoices or receipts.
 
+The approved way of sharing data is in the form of a W3C Verifiable Credential Presentation, which means that Data Providers, aka the business entities themselves, need to be equipped with the capability of making presentations of verifiable credentials.
+
+The technical format for this data sharing capability is described in Chapter 5.
+
+## 3. Data Consumers
+The approved way of consuming data that is shared by the Data Providers is through the reception of Verifiable Credential Presentations in the role of a Verifier or Relying Party, following closely the specifications of the W3C Verifiable Credentials specification as well as the eIDAS 2.0 regulation and it's Implementing Acts.
+
+The technical format for this data consuming capability is described in Chapter 5.
 
 ## 4. Methodology for defining the data to be shared
 The data to be shared is to be defined and described according to the following
