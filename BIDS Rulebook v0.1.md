@@ -58,6 +58,10 @@ https://github.com/danielfett/sd-jwt-vc-dm
 ### 5.1. Organization and governance of the technical data sharing
 
 ### 5.2. Schema repository with approved credential schemas
+In the context of eIDAS 2.0 compliant digital wallets, the ARF (in its 1.4.0 version) states the following about "catalogues":
+![image](https://github.com/EU-Business-Information-Data-Space/BIDS-Rulebook/assets/16665070/0aa5f5dc-eb98-4d8c-a83c-7686f5fce2a5)
+
+
 See documentation [here](credential-schemas.md)
 
 ## 6. Model for the overall organization and governance of the BIDS
