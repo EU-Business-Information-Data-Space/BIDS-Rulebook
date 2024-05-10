@@ -30,6 +30,9 @@ With the introduction of the BIDS and the digital capabilities it prescribes, th
 ## 2. Data Providers
 In comparison with traditional data sharing initiatives, the Data Providers in the BIDS are always the data subjects themselves, sharing all data according to MyData principles. The data to be shared can either be produced or stored by a third pary, like a government agency that stores information about a business entity in specific registries, or produced by the business entity itself in the form of specific business documents like orders, invoices or receipts.
 
+![image](https://github.com/EU-Business-Information-Data-Space/BIDS-Rulebook/assets/16665070/0afacb51-aa94-45ea-a3a5-3f6573a508c7)
+
+
 The approved way of sharing data is in the form of a W3C Verifiable Credential Presentation, which means that Data Providers, aka the business entities themselves, need to be equipped with the capability of making presentations of verifiable credentials.
 
 In order for the BIDS to work properly also the actors who act as an authentic source for a certain data product, mainly governmental agencies who have the legal right to maintain registries of a certain type, need to have the capability to issue data products in the form of verifiable credentials to the digital wallets of the business entities.
