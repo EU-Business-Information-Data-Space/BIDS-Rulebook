@@ -11,6 +11,7 @@
 6. Model for the overall organization and governance of the BIDS
 
 ## 1. Description of Business Scenario(s) where data is to be shared
+Although BIDS is intended to be applicable to any business scenario and any business process, including B2B, B2G, G2B, B2C etc. interactions, in this document the focus is on the specific business process of a financial institution doing a KYC (Know Your Customer) check to assess whether it, according to the laws in the jurisdiction it resides in and its internal statutes/xxx, can open a bank account for a business entity that has applied for it.
 
 When a new business entity starts conducting its business activities, one of the first key capabilities to be implemented is the ability to make and receive payments through the international banking system. For this purpose, the business entity needs to approach a financial institution, like a bank, and apply for the opening of a bank account. Traditionally this has been done locally, probably in one of the branches of a national bank. 
 
