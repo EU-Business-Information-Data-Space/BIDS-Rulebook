@@ -61,6 +61,10 @@ In the BIDS context, all data to be shared MUST be described as application prof
 
 NOTE: The proposed common toolset for BIDS specific semantic modeling according to the described methodology is the Interoperability Platform, consisting of the Terminologies tool (https://sanastot.suomi.fi/), Data Vocabularies tool (https://tietomallit.suomi.fi/ and Reference Data tool (https://koodistot.suomi.fi/). However, since the platform is currently maintained only for use by the Finnish public anc private sector organizations, a new governance model for the tools needs development in the BIDS context.
 
+NOTE: In the DSSC Blueprint v1.0 context, the contents of this chapter are described in a generic visualization:
+![image](https://github.com/EU-Business-Information-Data-Space/BIDS-Rulebook/assets/16665070/c23f25cd-c818-4a58-ade3-bd0e92a4d2c6)
+
+
 ### 4.1 Organization and governance of the required common data modeling
 A Semantic Working Group is to be established for the creation of the common ontology, vocabularies, code lists and application profiles that the Governance Body decides to be necessary for the data sharing in different business process contexts.
 
