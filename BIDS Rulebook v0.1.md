@@ -13,6 +13,8 @@
 ## 1. Description of Business Scenario(s) where data is to be shared
 Although BIDS is intended to be applicable to any business scenario and any business process, including B2B, B2G, G2B, B2C etc. interactions, in this document the focus is on the specific business process of a financial institution doing a KYC (Know Your Customer) check to assess whether it, according to the laws in the jurisdiction it resides in and its internal statutes/xxx, can open a bank account for a business entity that has applied for it.
 
+### 1.1 Know Your Customer -process in the banking sector
+
 When a new business entity starts conducting its business activities, one of the first key capabilities to be implemented is the ability to make and receive payments through the international banking system. For this purpose, the business entity needs to approach a financial institution, like a bank, and apply for the opening of a bank account. Traditionally this has been done locally, probably in one of the branches of a national bank. 
 
 Through the introduction of digital means to perform business process functions, many business processes that used to be bound to physical locations and whose execution was carried out by manual activities can nowadays be executed online and be partially or completely automated. One lacking capability in the digital and automated execution of the Know Your Customer process has been the absence of means to prove the identity of a business entity or its representative as well as presenting a trustworthy digital version of the documents that contain the information required in the business process.
