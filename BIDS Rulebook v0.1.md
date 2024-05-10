@@ -30,8 +30,12 @@ With the introduction of the BIDS and the digital capabilities it prescribes, th
 ## 2. Data Providers
 In comparison with traditional data sharing initiatives, the Data Providers in the BIDS are always the data subjects themselves, sharing all data according to MyData principles. The data to be shared can either be produced or stored by a third pary, like a government agency that stores information about a business entity in specific registries, or produced by the business entity itself in the form of specific business documents like orders, invoices or receipts.
 
-![image](https://github.com/EU-Business-Information-Data-Space/BIDS-Rulebook/assets/16665070/0afacb51-aa94-45ea-a3a5-3f6573a508c7)
+Source: https://www.w3.org/TR/vc-data-model-2.0/
+In the W3C VC world, the Data Product to be shared by the Data Provider is either a VC presentation by the Holder of data issued by an Issuer to the Holder OR the issuance of data by the Holder itself (in the Issuer role)
 
+Example: Company A hands over a trade register extract and an invoice to Company B. The extract is a VC issued by the national registration authority, that A merely "presents" it to B (who acts in the role of a Verifier (or EU: Relying Party), whereas the invoice is created (issued) by A and given to B (who acts in the role of Holder and Relying Party)
+
+! [image](https://github.com/EU-Business-Information-Data-Space/BIDS-Rulebook/assets/16665070/23fcc46d-fd67-4cdb-a0e2-e38b3c9ffc26)
 
 The approved way of sharing data is in the form of a W3C Verifiable Credential Presentation, which means that Data Providers, aka the business entities themselves, need to be equipped with the capability of making presentations of verifiable credentials.
 
