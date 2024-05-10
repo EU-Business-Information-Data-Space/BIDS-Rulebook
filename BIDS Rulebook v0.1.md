@@ -23,6 +23,8 @@ In comparison with traditional data sharing initiatives, the Data Providers in t
 
 The approved way of sharing data is in the form of a W3C Verifiable Credential Presentation, which means that Data Providers, aka the business entities themselves, need to be equipped with the capability of making presentations of verifiable credentials.
 
+In order for the BIDS to work properly also the actors who act as an authentic source for a certain data product, mainly governmental agencies who have the legal right to maintain registries of a certain type, need to have the capability to issue data products in the form of verifiable credentials to the digital wallets of the business entities.
+
 The technical format for this data sharing capability is described in Chapter 5.
 
 ## 3. Data Consumers
