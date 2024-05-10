@@ -35,7 +35,7 @@ In the W3C VC world, the Data Product to be shared by the Data Provider is eithe
 
 Example: Company A hands over a trade register extract and an invoice to Company B. The extract is a VC issued by the national registration authority, that A merely "presents" it to B (who acts in the role of a Verifier (or EU: Relying Party), whereas the invoice is created (issued) by A and given to B (who acts in the role of Holder and Relying Party)
 
-! [image](https://github.com/EU-Business-Information-Data-Space/BIDS-Rulebook/assets/16665070/23fcc46d-fd67-4cdb-a0e2-e38b3c9ffc26)
+![image](https://github.com/EU-Business-Information-Data-Space/BIDS-Rulebook/assets/16665070/add182f0-830e-48e0-b0a3-ce9ab10f74c8)
 
 The approved way of sharing data is in the form of a W3C Verifiable Credential Presentation, which means that Data Providers, aka the business entities themselves, need to be equipped with the capability of making presentations of verifiable credentials.
 
