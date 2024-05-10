@@ -61,8 +61,9 @@ https://github.com/danielfett/sd-jwt-vc-dm
 In the context of eIDAS 2.0 compliant digital wallets, the ARF (in its 1.4.0 version) states the following about "catalogues":
 ![image](https://github.com/EU-Business-Information-Data-Space/BIDS-Rulebook/assets/16665070/0aa5f5dc-eb98-4d8c-a83c-7686f5fce2a5)
 
+In the context of BIDS, such a catalogue will be solely based on the JSON-LD schemas derived automatically from the SHACL Shapes (application profiles) that describe the semantics of each data product (which in the context of eIDAS 2.0 are called (Qualified) Electronic Attestations of Attributes. The best way of making these mandatory semantic data descriptions and their technical implementations available needs further investigation.  
 
-See documentation [here](credential-schemas.md)
+In the meantime, a list of links to all relevant Data Product descriptions (consisting a "schema registry") can be found [here](credential-schemas.md)
 
 ## 6. Model for the overall organization and governance of the BIDS
 According to the DSSC Blueprint v1.0 (https://dssc.eu/space/BVE/357074549/Organisational+Form+and+Governance+Authority) the most suitable model of governance for the BIDS could be an EDIC.
