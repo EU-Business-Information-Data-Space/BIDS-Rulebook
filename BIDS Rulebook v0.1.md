@@ -57,7 +57,7 @@ The data to be shared is to be defined and described according to the following
 - Application profiles in the form of SHACL Shapes SHALL be developed by specializing the common domain-specific RDF/OWL Vocabulary classes, attributes and associations in the RDF/OWL Vocabulary.
 - Attribute enumeration values CAN be specified as code lists if necessary
 
-In the BIDS context, all data to be shared MUST be described as application profiles in the SHACL Shape technical format.
+In the BIDS context, all data to be shared MUST be described as application profiles in the SHACL Shape technical format. See visualization [here](semantic-technical-modeling.md)
 
 NOTE: The proposed common toolset for BIDS specific semantic modeling according to the described methodology is the Interoperability Platform, consisting of the Terminologies tool (https://sanastot.suomi.fi/), Data Vocabularies tool (https://tietomallit.suomi.fi/ and Reference Data tool (https://koodistot.suomi.fi/). However, since the platform is currently maintained only for use by the Finnish public anc private sector organizations, a new governance model for the tools needs development in the BIDS context.
 
